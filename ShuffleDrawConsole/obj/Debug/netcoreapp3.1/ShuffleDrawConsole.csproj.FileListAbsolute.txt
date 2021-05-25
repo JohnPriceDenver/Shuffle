@@ -1,0 +1,13 @@
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\bin\Debug\netcoreapp3.1\ShuffleDrawConsole.exe
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\bin\Debug\netcoreapp3.1\ShuffleDrawConsole.deps.json
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\bin\Debug\netcoreapp3.1\ShuffleDrawConsole.runtimeconfig.json
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\bin\Debug\netcoreapp3.1\ShuffleDrawConsole.runtimeconfig.dev.json
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\bin\Debug\netcoreapp3.1\ShuffleDrawConsole.dll
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\bin\Debug\netcoreapp3.1\ShuffleDrawConsole.pdb
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\obj\Debug\netcoreapp3.1\ShuffleDrawConsole.csproj.CoreCompileInputs.cache
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\obj\Debug\netcoreapp3.1\ShuffleDrawConsole.AssemblyInfoInputs.cache
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\obj\Debug\netcoreapp3.1\ShuffleDrawConsole.AssemblyInfo.cs
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\obj\Debug\netcoreapp3.1\ShuffleDrawConsole.dll
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\obj\Debug\netcoreapp3.1\ShuffleDrawConsole.pdb
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\obj\Debug\netcoreapp3.1\ShuffleDrawConsole.genruntimeconfig.cache
+C:\Job\programs\ShuffleDrawConsole\ShuffleDrawConsole\obj\Debug\netcoreapp3.1\ShuffleDrawConsole.csprojAssemblyReference.cache
